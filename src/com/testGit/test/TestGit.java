@@ -13,5 +13,6 @@ public class TestGit {
         System.out.println("This is Git FourTest===>ping X pong");
         System.out.println("This is Git FiveTest===>ping X pong");
         System.out.println("This is Git SIXTest===>ping X pong");
+        System.out.println("This is Git SEVENTest===>ping X pong");
     }
 }
